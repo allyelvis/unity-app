@@ -1,0 +1,5 @@
+2024-12-24 22:26:43.480 [info] Extension host with pid 1226 started
+2024-12-24 22:26:46.412 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-12-24 22:26:47.053 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-12-24 22:26:49.472 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-12-24 22:26:49.473 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
