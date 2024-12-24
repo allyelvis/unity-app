@@ -1,4 +1,4 @@
 # HSTS 1.0 Known Hosts database for GNU Wget.
 # Edit at your own risk.
 # <hostname>	<port>	<incl. subdomains>	<created>	<max-age>
-assetstore.unity.com	0	1	1735079194	15724800
+assetstore.unity.com	0	1	1735079458	15724800
